@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"target": "esnext",
+		"module": "amd",
+		"declaration": true,
+		"outFile": "dist/dist.js"
+	},
+	"include": [
+		"src/**/*.ts"
+	]
+}
